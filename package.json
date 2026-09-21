@@ -1,0 +1,10 @@
+{
+  "name": "cloudgame-neverball",
+  "version": "1.0.0",
+  "description": "Cloud game runner for Neverball",
+  "main": "register_tunnel.js",
+  "scripts": {
+    "start": "node register_tunnel.js"
+  },
+  "dependencies": {}
+}
